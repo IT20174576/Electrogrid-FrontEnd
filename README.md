@@ -1,1 +1,1 @@
-# Electrogrid-FrontEnd
+# Electrogrid- THICK Client Application
